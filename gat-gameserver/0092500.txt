@@ -1,0 +1,14 @@
+P1 connected 
+Time remaining active player: 118121
+Time remaining active player: 117251
+Time remaining active player: 116022
+Time remaining active player: 114353
+Time remaining active player: 112705
+Time remaining active player: 111214
+Time remaining active player: 109829
+Time remaining active player: 108176
+Time remaining active player: 106243
+Time remaining active player: 104290
+Time remaining active player: 102514
+Time remaining active player: 100591
+Game finished Invalid Move, win: b

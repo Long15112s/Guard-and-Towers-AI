@@ -1,0 +1,30 @@
+# Build-Verzeichnisse
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Editor-spezifisch (VSCode)
+.vscode/
+*.code-workspace
+
+# Backup-Dateien
+*~
+*.swp
+*.bak
+
+# Binärdateien
+*.out
+*.exe
+*.a
+*.o
+*.obj
+*.so
+*.dll
+
+# Logs
+*.log
+
+# MacOS/Linux/Misc
+.DS_Store
