@@ -4,30 +4,25 @@ Dieses Projekt enthält ein visuelles GUI-Schachspiel sowie leistungsfähige Kon
 
 ---
 
+## 👥 Team
+
+| Rolle | Mitglieder |
+|---|---|
+| ⚙️ **Infrastruktur, Spiel & KI** | Hoang Long Vu Luong (@hoanglong), Maxim Mjakinin (@mm22) |
+| 🧪 **Tests** | Samuel Hakimi (@samuhakimi2002), Sarra Bouallegue (@sarra-bouallegue) |
+
+---
+
 ## 🔧 Setup
 
 1. **Projekt klonen:**
 
 ```bash
-git clone https://git.tu-berlin.de/mm22/guard-and-towers-ai.git
-cd guard-and-towers-ai
+git clone https://github.com/Long15112s/Guard-and-Towers-AI.git
+cd Guard-and-Towers-AI
 ```
 
-2. **Eigenen Branch auschecken:**
-
-```bash
-git checkout <dein_name>s_branch
-```
-
-3. **Branch `bitboard` mergen (alle aktuellen Änderungen holen):**
-
-```bash
-git merge bitboard
-```
-
----
-
-## 🛠️ Build & Kompilieren
+2. **Build & Kompilieren:**
 
 ```bash
 cmake -B build
@@ -96,4 +91,4 @@ cmake --build build
 
 ---
 
-Viel Erfolg & Spaß beim Tüfteln mit KI! 🧠
+*Entwickelt als Uni-Projekt @ TU Berlin* 🧠
